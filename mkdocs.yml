@@ -1,11 +1,11 @@
-site_name: 'ESIIL Working Group OASIS'
-site_description: 'Central resource for the vast exploration and research in Dry Forest Ecosystems'
+site_name: 'VERDE: Vast Exploration and Research in Dry Forest Ecosystems'
+site_description: 'Central resource for the tropical phenology working group'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/VERDE_TropicalPhenology
+site_url: https://cu-esiil.github.io/VERDE
 
 # Repository
-repo_name: VERDE_TropicalPhenology
-repo_url: https://github.com/CU-ESIIL/VERDE_TropicalPhenology
+repo_name: VERDE
+repo_url: https://github.com/CU-ESIIL/VERDE
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
