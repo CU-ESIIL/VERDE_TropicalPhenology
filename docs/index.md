@@ -3,31 +3,32 @@
 Welcome to the **VERDE** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
-[Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
+We propose Vast Exploration and Research in Dry Forest Ecosystems (VERDE), a working group **to harness environmental data science for understanding the evolutionary past and probable futures of a globally distributed and threatened biome: tropical dry forests**. Tropical dry forests are defined by drought deciduousness which determines ecosystem productivity and nutrient cycling. However, the origins of deciduousness, its degree of variation, and its role in determining the impacts of climate change in tropical dry forests are unclear. To understand the evolutionary history, contemporary biogeography, and probable futures of dry forests, we propose three research goals to examine the distribution of deciduousness:
++ Investigate evolutionary past and origins of tropical deciduousness.
++ Study the definition of deciduosness in tropical taxa and its degree of variation.
++ Measure the sensitivity of tropical dry forests to climate variability with remote sensing and modeling tools.
 
-## Documentation
-- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
-- Find comprehensive guides, tutorials, and additional resources.
+We will achieve this by bringing together datasets that include phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation. Our team is deliberately diverse, representing a spectrum of career stages, geography, and disciplines like ecophysiology, ecology, ecosystem science, macroevolution, forecasting, and remote sensing. 
 
 ## Project Proposal
-[Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
+Please find our full project proposal [here](assets/01VERDEproposal.pdf).
 
 ## Group Members
 
-| Person | Expertise | Institution |
-| ------ | --------- | ----------- |
-| Catherine Hulshof | | Virginia Commonwealth University |
-| German Vargas Gutiérrez | Plant Physiological Ecology | Oregon State University |
-| Jennifer Powers | Ecosystems Ecology | University of Minnesota |
-| Roy González Martínez | Macrosytems Ecology | Universidad de Tolima |
-| Anna Trugmann | Ecological Modeling | University of California Santa Barbara|
-| Loren Albert | Plant Physiological Ecology | Oregon State University |
-| Horacio Paz | | |
-| Jin Wu | Macrosystems Ecology | | 
-| Toby Pennington | Plant Systematics and Evolutionary Biology | |
-| Will Weider | Ecological Modeling | |
-| Xavier Haro-Carrion | Macrosystems Ecology | |
-| Adrián Bojorquez | | |
+| Person | Expertise | Institution | 
+| ------ | --------- | ----------- | 
+| Catherine Hulshof | Macroecology, Plant Community Ecology | Virginia Commonwealth University |
+| German Vargas Gutiérrez | Plant Physiological Ecology and Global Change Ecology | Oregon State University |
+| Jennifer Powers | Biogeochemical and Ecosystem Processes | University of Minnesota |
+| Anna Trugmann | Global Change Ecology and Earth System Science | University of California Santa Barbara|
+| Roy González Martínez | Forest Ecology, Plant Ecology, and Macroecology | Universidad de Tolima |
+| Loren Albert | Plant Physiological Ecology and Plant Ecology | Oregon State University |
+| Adrián Bojorquez Valdez | Landscape Ecology, Global Change Ecology, and Remote Sensint | Instituto Tecnológico de Sonora |
+| Horacio Paz | Plant physiological ecology, Functional Ecology, and Ecosystem Restoration | IIES - Universidad Nacional Autonoma de Mexico |
+| Jin Wu | Ecosystems Ecology and Plant Physiological Ecology | University of Hong Kong |
+| Toby Pennington | Tropical Plant Diversity and Biogeography | Washington University in St. Louis |
+| Will Weider | Earth System Science, Climate and Global Dynamics | National Center for Atmospheric Research |
+| Xavier Haro-Carrion | Land System Science, tropical ecology | Macalester College |
 
 ## Code Repository
 
