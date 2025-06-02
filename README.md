@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/727888683.svg)](https://zenodo.org/doi/10.5281/zenodo.11166898)
 
-# [Your Working Group Name]
+# VERDE
 
-Welcome to the **[Your Working Group Name]** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
+Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
 [Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
