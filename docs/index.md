@@ -4,10 +4,9 @@ Welcome to the **VERDE** repository, an integral part of the Environmental Data 
 
 ## Our Project
 We propose Vast Exploration and Research in Dry Forest Ecosystems (VERDE), a working group **to harness environmental data science for understanding the evolutionary past and probable futures of a globally distributed and threatened biome: tropical dry forests**. Tropical dry forests are defined by drought deciduousness which determines ecosystem productivity and nutrient cycling. However, the origins of deciduousness, its degree of variation, and its role in determining the impacts of climate change in tropical dry forests are unclear. To understand the evolutionary history, contemporary biogeography, and probable futures of dry forests, we propose three research goals to examine the distribution of deciduousness:
-
-+ Investigate evolutionary past and origins of tropical deciduousness.
-+ Study the definition of deciduosness in tropical taxa and its degree of variation.
-+ Measure the sensitivity of tropical dry forests to climate variability with remote sensing and modeling tools.
+* Investigate evolutionary past and origins of tropical deciduousness.
+* Study the definition of deciduosness in tropical taxa and its degree of variation.
+* Measure the sensitivity of tropical dry forests to climate variability with remote sensing and modeling tools.
 
 We will achieve this by bringing together datasets that include phylogenetic trees, functional traits, field-based phenology data, remote sensing imagery, and ecosystem modeling. Importantly, our working group will broaden the century-old and geographically biased ‘temperate phenology paradigm’ by identifying past, present, and future determinants of tropical phenological variation. Our team is deliberately diverse, representing a spectrum of career stages, geography, and disciplines like ecophysiology, ecology, ecosystem science, macroevolution, forecasting, and remote sensing. 
 
