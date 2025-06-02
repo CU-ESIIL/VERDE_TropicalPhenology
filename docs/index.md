@@ -18,17 +18,17 @@ Please find our full project proposal [here](assets/01VERDEproposal.pdf).
 | Person | Expertise | Institution | 
 | ------ | --------- | ----------- | 
 | Catherine Hulshof | Macroecology, Plant Community Ecology | Virginia Commonwealth University |
-| German Vargas Gutiérrez | Plant Physiological Ecology and Global Change Ecology | Oregon State University |
+| German Vargas G. | Plant Physiological Ecology and Global Change Ecology | Oregon State University |
 | Jennifer Powers | Biogeochemical and Ecosystem Processes | University of Minnesota |
-| Anna Trugmann | Global Change Ecology and Earth System Science | University of California Santa Barbara|
-| Roy González Martínez | Forest Ecology, Plant Ecology, and Macroecology | Universidad de Tolima |
+| Anna Trugman | Global Change Ecology and Earth System Science | University of California Santa Barbara|
+| Roy González-M. | Forest Ecology, Plant Ecology, and Macroecology | Universidad de Tolima |
 | Loren Albert | Plant Physiological Ecology and Plant Ecology | Oregon State University |
 | Adrián Bojorquez Valdez | Landscape Ecology, Global Change Ecology, and Remote Sensint | Instituto Tecnológico de Sonora |
 | Horacio Paz | Plant physiological ecology, Functional Ecology, and Ecosystem Restoration | IIES - Universidad Nacional Autónoma de México |
 | Jin Wu | Ecosystems Ecology and Plant Physiological Ecology | University of Hong Kong |
 | Toby Pennington | Tropical Plant Diversity and Biogeography | Washington University in St. Louis |
 | Will Weider | Earth System Science, Climate and Global Dynamics | National Center for Atmospheric Research |
-| Xavier Haro-Carrion | Land System Science, tropical ecology | Macalester College |
+| Xavier Haro-Carrión | Land System Science, tropical ecology | Macalester College |
 
 ## Code Repository
 
