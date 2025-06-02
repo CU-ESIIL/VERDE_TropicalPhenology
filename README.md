@@ -15,9 +15,9 @@ Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)*
 [Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Group Members
-- Member 1: Brief description or role within the group.
-- Member 2: Brief description or role within the group.
-- ...
+- Member 1: Catherine Hulshof, Ph.D.
+- Member 2: German Vargas Gutiérrez, Ph.D
+- Member 3: Jennifer Powers, Ph.D.
 - [Link to more detailed bios or profiles if available.]
 
 ## Repository Structure
