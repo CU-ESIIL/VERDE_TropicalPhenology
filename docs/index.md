@@ -24,7 +24,7 @@ Please find our full project proposal [here](assets/01VERDEproposal.pdf).
 | Roy González Martínez | Forest Ecology, Plant Ecology, and Macroecology | Universidad de Tolima |
 | Loren Albert | Plant Physiological Ecology and Plant Ecology | Oregon State University |
 | Adrián Bojorquez Valdez | Landscape Ecology, Global Change Ecology, and Remote Sensint | Instituto Tecnológico de Sonora |
-| Horacio Paz | Plant physiological ecology, Functional Ecology, and Ecosystem Restoration | IIES - Universidad Nacional Autonoma de Mexico |
+| Horacio Paz | Plant physiological ecology, Functional Ecology, and Ecosystem Restoration | IIES - Universidad Nacional Autónoma de México |
 | Jin Wu | Ecosystems Ecology and Plant Physiological Ecology | University of Hong Kong |
 | Toby Pennington | Tropical Plant Diversity and Biogeography | Washington University in St. Louis |
 | Will Weider | Earth System Science, Climate and Global Dynamics | National Center for Atmospheric Research |
