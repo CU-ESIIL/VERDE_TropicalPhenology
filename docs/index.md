@@ -13,19 +13,22 @@ Welcome to the **VERDE** repository, an integral part of the Environmental Data 
 [Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Group Members
-- Catherine Hulshof: Working group leader, Associate Professor, Virginia Commonwealth University.
-- German Vargas Gutiérrez: Working group technical lead, Assistant Professor, Oregon State University.
-- Jennifer Powers: Working group co-leader, Professor, University of Minnesota.
-- Roy González Martínez
-- Anna Trugmann: Participant
-- Loren Albert: Participant
-- Horacio Paz: Participant
-- Jin Wu: Participant
-- Toby Pennington: Participant
-- Will Weider: Participant
-- Xavier Haro-Carrion: Participant
-- Adrián Bojorquez: Participant
-  
+
+| Person | Expertise | Institution |
+| ------ | --------- | ----------- |
+| Catherine Hulshof | | Virginia Commonwealth University |
+| German Vargas Gutiérrez | Plant Physiological Ecology | Oregon State University |
+| Jennifer Powers | Ecosystems Ecology | University of Minnesota |
+| Roy González Martínez | Macrosytems Ecology | Universidad de Tolima |
+| Anna Trugmann | Ecological Modeling | University of California Santa Barbara|
+| Loren Albert | Plant Physiological Ecology | Oregon State University |
+| Horacio Paz | | |
+| Jin Wu | Macrosystems Ecology | | 
+| Toby Pennington | Plant Systematics and Evolutionary Biology | |
+| Will Weider | Ecological Modeling | |
+| Xavier Haro-Carrion | Macrosystems Ecology | |
+| Adrián Bojorquez | | |
+
 ## Code Repository
 
 This section of the repository will include all the code developed for the project. You can structure it as follows:
