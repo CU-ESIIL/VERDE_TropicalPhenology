@@ -1,25 +1,31 @@
 # VERDE
 
-Welcome to the [Your Working Group Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our working group, hosting our project description, proposals, member bios, codebase, and more.
-
-test edit 
+Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
+[Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+## Documentation
+- Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+- Find comprehensive guides, tutorials, and additional resources.
 
 ## Project Proposal
-
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+[Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Group Members
-
-[List the names and a brief description of each group member, possibly linking to their personal or professional web pages.]
-
-- **Member 1**: Brief description or role within the group.
-- **Member 2**: Brief description or role within the group.
-- ...
-
+- Catherine Hulshof
+- German Vargas Gutiérrez
+- Jennifer Powers
+- Roy González Martínez
+- Anna Trugmann
+- Loren Albert
+- Horacio Paz
+- Jin Wu
+- Toby Pennington
+- Will Weider
+- Xavier Haro-Carrion
+- Adrián Bojorquez
+  
 ## Code Repository
 
 This section of the repository will include all the code developed for the project. You can structure it as follows:
