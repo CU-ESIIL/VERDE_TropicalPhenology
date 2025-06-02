@@ -1,6 +1,6 @@
-# VERDE
+# VERDE: Vast Exploration and Research in Dry Forest Ecosystems
 
-Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
+Welcome to the **VERDE** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
 ## Our Project
 [Provide a brief overview of your project here. Describe what you aim to achieve, the importance of your project, and its expected impact.]
@@ -13,18 +13,18 @@ Welcome to the **Vast Exploration and Research in Dry Forest Ecosystems (VERDE)*
 [Link to the detailed project proposal document or include it directly in the repository. Outline the goals, methodologies, anticipated challenges, and projected timelines.]
 
 ## Group Members
-- Catherine Hulshof
-- German Vargas Gutiérrez
-- Jennifer Powers
+- Catherine Hulshof: Working group leader, Associate Professor, Virginia Commonwealth University.
+- German Vargas Gutiérrez: Working group technical lead, Assistant Professor, Oregon State University.
+- Jennifer Powers: Working group co-leader, Professor, University of Minnesota.
 - Roy González Martínez
-- Anna Trugmann
-- Loren Albert
-- Horacio Paz
-- Jin Wu
-- Toby Pennington
-- Will Weider
-- Xavier Haro-Carrion
-- Adrián Bojorquez
+- Anna Trugmann: Participant
+- Loren Albert: Participant
+- Horacio Paz: Participant
+- Jin Wu: Participant
+- Toby Pennington: Participant
+- Will Weider: Participant
+- Xavier Haro-Carrion: Participant
+- Adrián Bojorquez: Participant
   
 ## Code Repository
 
