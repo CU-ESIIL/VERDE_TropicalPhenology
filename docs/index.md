@@ -2,7 +2,7 @@
 
 Welcome to the **VERDE** repository, an integral part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository is the central hub for our working group, encompassing our project overview, proposals, team member information, codebase, and more.
 
-## Our Project
+## Our Project is!
 We propose Vast Exploration and Research in Dry Forest Ecosystems (VERDE), a working group **to harness environmental data science for understanding the evolutionary past and probable futures of a globally distributed and threatened biome: tropical dry forests**. Tropical dry forests are defined by drought deciduousness which determines ecosystem productivity and nutrient cycling. However, the origins of deciduousness, its degree of variation, and its role in determining the impacts of climate change in tropical dry forests are unclear. To understand the evolutionary history, contemporary biogeography, and probable futures of dry forests, we propose three research goals to examine the distribution of deciduousness:
 
 * Investigate evolutionary past and origins of tropical deciduousness.
